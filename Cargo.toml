@@ -1,0 +1,9 @@
+[package]
+name = "foundation-sql"
+version = "0.0.1"
+authors = ["Nathan Jaremko <njaremko@gmail.com>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.*"
